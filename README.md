@@ -25,8 +25,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) -->
 
 ### What I'm Currently Working On
-
-- 🌱 Learning and experimenting.
+- 📱 Learning and Experimenting Mobile App Development with Flutter
 - 🎯 Open to collaborations on innovative and impactful projects.
 
 ### My GitHub Stats
