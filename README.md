@@ -43,8 +43,7 @@
 
 ### Fun Facts
 
-- 🎮 I Looove playing Video games. Send a Steam Req and Let's have some fun.
-- 📚 Love Fiction and Fantasy ❤️
+- Video Games and Books, specially Fantasy
 
 ---
 
