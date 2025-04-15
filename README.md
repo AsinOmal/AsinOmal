@@ -36,10 +36,9 @@
 
 ### 🎯 Fun Facts
 
-- 🔍 Debugging is like solving a crime where you're the criminal.
-- 🧪 Currently experimenting with smart mirror tech and student finance tools.
+- 🐞 I break code just to fix it again.
+- 📱 I’ve built more UIs than I’ve deployed.
 - 🎮 I sometimes build apps just to test new libraries.
 
 ---
 
-> 🕶️ Dark theme. Clean layout. Just the essentials.
